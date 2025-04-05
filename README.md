@@ -1,16 +1,14 @@
-## Hi there 👋
+# Gowshigan Selladurai – Data Science Portfolio
 
-<!--
-**GowshiganS/GowshiganS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Computer Science | 📍 Paris, France  
+🔍 Looking for a Data Science / Machine Learning Internship or Apprenticeship  
+📧 gowshigan@email.com | [LinkedIn](https://www.linkedin.com/in/gowshigan-selladurai/) | [GitHub](https://github.com/GowshiganS)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages**: Python, SQL, Bash  
+- **Libraries**: Pandas, Scikit-learn, Matplotlib, Seaborn
+- **Tools**: Git, Linux, VS Code, Jupyter  
+
+---
