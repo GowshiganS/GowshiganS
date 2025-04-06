@@ -1,10 +1,11 @@
 ## Hello I'm Gowshigan Selladurai and this is my Data Science Portfolio
 
 🎓 Master's in Computer Science | 📍 Paris, France  
+
 🔍 Looking for a Data Science / Machine Learning Internship or Apprenticeship  
 
 ---
-My data science projets : https://github.com/GowshiganS/DataScience-Projets
+My data science projets : https://github.com/GowshiganS/DataScience-Projets  
 My others projets : https://github.com/GowshiganS/CS_Other_Projets 
 
 ---
