@@ -6,7 +6,7 @@
 
 ## 📚 Projects :
 
-📊 [My data science projets](https://github.com/GowshiganS/DataScience-Projets)  
+📊 [My data science projets](https://github.com/GowshiganS/DataScience-Projects)  
 👩🏻‍💻 [My others projets](https://github.com/GowshiganS/CS_Other_Projets) 
 
 ---
