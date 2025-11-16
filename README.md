@@ -4,7 +4,6 @@
 
 📍 Basé à Paris, France  
 
-🔍 À la recherche d’une alternance en Data Science / Machine Learning à partir d’octobre 2025
 
 
 ## 📚 Projets
@@ -32,7 +31,6 @@ ________________________________________________________________________________
 
 📍 Paris, France  
 
-🔍 Looking for a Data Science / Machine Learning Apprenticeship  
 
 ## 📚 Projects :
 
