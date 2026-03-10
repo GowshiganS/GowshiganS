@@ -1,47 +1,57 @@
-## Bonjour, je suis Gowshigan Selladurai — Bienvenue sur mon Portfolio Data Science
+# 🚀 Gowshigan Selladurai
+### AI Engineer & Data Scientist Apprentice @ Cleva
 
-🎓 Étudiant en Master d'Informatique — Master Optique, Image, Vision, Multimédia parcours Systèmes distribués et technologies de la data Science (SDTS) 
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Alternance-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Paris%2C%20France-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Master-UPEC%20(SDTS)-orange?style=flat-square" />
+</p>
 
-📍 Basé à Paris, France  
+---
+
+## 👨‍💻 À propos
+Étudiant en **Master 2 Systèmes Distribués et Technologies de la Data Science (SDTS)** à l'UPEC, je combine une solide base en informatique (Licence Sorbonne Paris Nord) avec une expertise en Intelligence Artificielle. 
+
+Actuellement chez **Cleva**, je déploie des solutions d'IA concrètes. Mon parcours est rythmé par les défis techniques, notamment en hackathons où je transforme des idées en prototypes fonctionnels en un temps record.
+
+---
+
+## 🛠️ Stack Technique
+
+| Domaine | Technologies |
+| :--- | :--- |
+| **Langages** | Python (Pandas, Scikit-learn, TensorFlow/Pytorch), SQL, Bash |
+| **IA Agentique** | Mistral AI, LangChain, n8n, Qdrant (Vector DB) |
+| **Data Viz** | Streamlit, Matplotlib, Seaborn |
+| **DevOps & Tools** | Git, Docker, Linux, VS Code |
+
+---
+
+## 🏆 Hackathon Highlights (Portfolio)
+
+### 🥇 1ère Place - Hackathon Data For Good (2026)
+> **Projet : Analyse de l'Écologie dans les Médias**
+> * **Problématique** : Quantifier l'impact environnemental dans le paysage médiatique.
+> * **Solution** : Pipeline NLP avec nettoyage intelligent, segmentation sémantique via embeddings et classification Zero-Shot.
+
+### 🚀 Finaliste - Pioneers AI Lab @ Station F
+> **Projet : Agentic Patent Generator**
+> * **Solution** : Système multi-agents automatisant la rédaction de brevets.
+> * **Tech Stack** : Orchestration via n8n, Mistral AI, Google Search API.
+
+### 🤖 AMD Robotics Hackathon
+> **Projet : Automated Nuclear Waste Sorting**
+> * **Tech** : Vision par ordinateur, Hugging Face LeRobot, entraînement sur GPU AMD MI300X.
 
 
+---
 
-## 📚 Projets
+## 📫 Contact & Liens
+- **LinkedIn**: [linkedin.com/in/gowshigan-selladurai](https://www.linkedin.com/in/gowshigan-selladurai/)
+- **Email**: [gowshigan.selladurai@gmail.com](mailto:gowshigan.selladurai@gmail.com)
+- **Portfolio Web**: [github.com/GowshiganS](https://github.com/GowshiganS)
 
-📊 [Mes projets Data Science](https://github.com/GowshiganS/DataScience-Projects)  
-💻 [Autres projets informatiques](https://github.com/GowshiganS/CS_Other_Projets)
-
-
-## 🛠️ Compétences
-
-- **Langages :** Python, SQL, Bash  
-- **Librairies :** Pandas, Scikit-learn, Matplotlib, Seaborn  
-- **Outils :** Git, Linux, VS Code, Jupyter  
-
-
-## 📧 Me contacter
-
-📧 gowshigan.selladurai@gmail.com  | [LinkedIn](https://www.linkedin.com/in/gowshigan-selladurai/)  
-
-
-__________________________________________________________________________________________________________________
-## Hello I'm Gowshigan Selladurai and this is my Data Science Portfolio
-
-🎓 Master's in Computer Science
-
-📍 Paris, France  
-
-
-## 📚 Projects :
-
-📊 [My data science projets](https://github.com/GowshiganS/DataScience-Projects)  
-👩🏻‍💻 [My others projets](https://github.com/GowshiganS/CS_Other_Projets) 
-
-
-## 🛠️ Skills
-- **Languages**: Python, SQL, Bash  
-- **Libraries**: Pandas, Scikit-learn, Matplotlib, Seaborn
-- **Tools**: Git, Linux, VS Code, Jupyter
-
-## 📧 Contact me here :
- gowshigan.selladurai@gmail.com | [LinkedIn](https://www.linkedin.com/in/gowshigan-selladurai/) 
+---
+<p align="center">
+  💪 <i>Passionné par le code qui a un impact réel.</i>
+</p>
